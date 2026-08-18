@@ -8,5 +8,5 @@ grandalf==0.8
 pandas==2.2.2
 numpy==2.0.2
 streamlit==1.42.2
-openai==1.0.0
+openai==1.58.1
  
